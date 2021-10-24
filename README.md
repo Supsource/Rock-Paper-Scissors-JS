@@ -5,4 +5,4 @@ An experiment involving a game of rock, paper and scissor. During the first 3 ro
 
 # Contributors
 
-Pull requests and stars are always welcome. For bugs and feature requests
+Pull requests and stars are always welcome.
